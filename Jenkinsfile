@@ -1,4 +1,3 @@
-[16:55] Neel Patel
 pipeline {
 
     agent any
